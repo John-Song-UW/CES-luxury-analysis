@@ -17,10 +17,10 @@ This project analyzes how luxury vs. general consumer spending in the U.S. respo
 
 ## 📁 Repository Structure
 
-Data/     # CES-based input data (public-safe version)
-Codes/    # R scripts for merging, filtering, modeling
-Output/   # Figures, regression tables, and write-up
-CSSS_322_Final.pdf  # Final report
+- Data: CES-based input data (public-safe version)
+- Codes: R scripts for merging, filtering, modeling
+- Output: Figures, regression tables, and write-up
+- CSSS_322_Final.pdf: Final report
 
 ## 👤 Author
 
