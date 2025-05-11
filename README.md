@@ -1,4 +1,4 @@
-# Luxury Consumption During the COVID-19 Downturn
+# Analysis of luxury vs. general consumption dynamics during the COVID-19 economic shock using CES microdata (2019–2023).
 
 This project analyzes how luxury vs. general consumer spending in the U.S. responded to the COVID-19 economic shock using Consumer Expenditure Survey (CES) microdata from 2019–2023.
 
